@@ -1,0 +1,6 @@
+torch>=2.4
+transformers>=5.0
+accelerate
+safetensors
+pillow
+huggingface_hub
